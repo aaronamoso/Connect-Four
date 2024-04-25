@@ -1,0 +1,14 @@
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\bin\Debug\net8.0\ConnectFourProject.exe
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\bin\Debug\net8.0\ConnectFourProject.deps.json
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\bin\Debug\net8.0\ConnectFourProject.runtimeconfig.json
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\bin\Debug\net8.0\ConnectFourProject.dll
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\bin\Debug\net8.0\ConnectFourProject.pdb
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.AssemblyInfoInputs.cache
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.AssemblyInfo.cs
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.dll
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\refint\ConnectFourProject.dll
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.pdb
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ConnectFourProject.genruntimeconfig.cache
+C:\Users\Aaron\source\repos\ConnectFourProject\ConnectFourProject\obj\Debug\net8.0\ref\ConnectFourProject.dll
